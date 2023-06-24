@@ -1,0 +1,13 @@
+table, th, td {
+    border: 1px solid;
+}
+
+table{
+    width: 100%;
+}
+
+th {
+    text-align: center;
+    background-color: blue;
+    color: aliceblue;
+}
