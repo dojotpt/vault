@@ -1,0 +1,39 @@
+header {
+    width: 100%;
+}
+
+.container {
+    border: 2px solid black;
+    padding: 10 px;
+    margin: 10 px auto;
+}
+
+.color-panelrosybrown {
+    background-color: rosybrown;
+}
+
+.color-panelblue {
+    background-color: blue;    
+}
+
+.color-panelgold {
+    background-color: gold;
+}
+
+.color-panelseagreen{
+    background-color: seagreen;
+}
+
+.tnrnormal {
+font-family: 'Times New Roman', Times, serif;
+}
+
+.tnritalic {
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+}
+
+.tnrbold {
+    font-family: 'Times New Roman', Times, serif;
+    font-style: bold;
+}
