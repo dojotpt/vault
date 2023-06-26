@@ -1,0 +1,46 @@
+nav {
+    display: flex;
+    width: flex;
+    font-size: 1rem;
+    font-family: 'Roboto', sans-serif;
+    align-items: center;
+    justify-content: space-evenly;
+    background-color: rgba(120, 199, 199, 0.5);
+    padding: 1rem 2rem;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    background-position: center;
+}
+.navigation-items {
+    color: #fff;
+    
+}
+
+li {
+    display: inline;
+    text-align: center;
+    padding: 0 1rem;
+}
+
+body {
+    background-image: url('./Resources/annie-spratt-0ZPSX_mQ3xI-unsplash.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    margin: 146;  
+}
+
+.hero-image {
+    opacity: 0.85;
+    height: 400px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size:100px 80px;
+    position: relative;
+}
+
+.header-container {
+    text-align: center;
+    position: center;
+    color: black;
+}
